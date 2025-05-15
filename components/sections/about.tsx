@@ -22,7 +22,7 @@ export function About() {
     {
       degree: "CBSE 10th",
       institution: "St. Joseph's Mission School",
-      period: "2029",
+      period: "2019",
       grade: "86.66%",
     },
   ];
