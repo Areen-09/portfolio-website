@@ -10,19 +10,19 @@ export function About() {
     {
       degree: "B.Tech, Electronics & Communication Engineering",
       institution: "VIT, Vellore",
-      period: "2022–2026",
+      period: "2022–present",
       grade: "CGPA: 8.67",
     },
     {
       degree: "CBSE 12th",
       institution: "Career Point World School",
-      period: "2022",
+      period: "2021",
       grade: "85.5%",
     },
     {
       degree: "CBSE 10th",
       institution: "St. Joseph's Mission School",
-      period: "2020",
+      period: "2029",
       grade: "86.66%",
     },
   ];

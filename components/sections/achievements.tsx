@@ -20,9 +20,9 @@ export function Achievements() {
       icon: <Medal className="w-12 h-12 text-chart-2" />,
     },
     {
-      title: "Dean's List Scholar",
+      title: "Top 8 - VITCL by Board Gamers Club",
       year: "2022-2023",
-      description: "Recognized for academic excellence with consistent high performance across all semesters.",
+      description: "Placed in Top 8 in VIT Chess league organised by Board Gamers Club",
       icon: <Award className="w-12 h-12 text-chart-3" />,
     },
   ];
