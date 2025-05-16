@@ -1,5 +1,7 @@
 # Areen Agrawal's Portfolio
 
+[🌐 Visit Live Website](https://portfolio-website-six-mu-80.vercel.app/)
+
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
