@@ -62,7 +62,7 @@ export function Hero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-xl md:text-2xl font-medium text-muted-foreground mb-6"
             >
-              Pre-final year B.Tech ECE Student at VIT, Vellore
+              Final year B.Tech ECE Student at VIT, Vellore
             </motion.h2>
             
             <motion.p 

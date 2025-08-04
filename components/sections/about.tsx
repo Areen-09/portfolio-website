@@ -11,7 +11,7 @@ export function About() {
       degree: "B.Tech, Electronics & Communication Engineering",
       institution: "VIT, Vellore",
       period: "2022–present",
-      grade: "CGPA: 8.67",
+      grade: "CGPA: 8.72",
     },
     {
       degree: "CBSE 12th",
@@ -60,7 +60,7 @@ export function About() {
           >
             <h3 className="text-2xl font-bold mb-4">Who I Am</h3>
             <p className="text-muted-foreground mb-4">
-              I'm a pre-final year B.Tech student in Electronics & Communication Engineering at VIT, Vellore, with a passion for building innovative technology solutions. My interests span across full-stack development, artificial intelligence, machine learning, and generative AI.
+              I'm a final year B.Tech student in Electronics & Communication Engineering at VIT, Vellore, with a passion for building innovative technology solutions. My interests span across full-stack development, artificial intelligence, machine learning, and generative AI.
             </p>
             <p className="text-muted-foreground mb-4">
               I enjoy tackling complex problems and creating applications that make a difference. My journey in technology has equipped me with a diverse skill set and a growth mindset that drives me to continuously learn and adapt.
