@@ -81,7 +81,7 @@ export function Hero() {
               className="flex flex-wrap gap-4 justify-center md:justify-start"
             >
               <Button size="lg" asChild>
-                <a href="https://drive.google.com/file/d/16obp4BGDtaxz6aZiRoNdmmIr3U0Tj1N5/view?usp=sharing" target="_blank" download>
+                <a href="https://drive.google.com/file/d/123FOW3RNHdkGGNm2vrIuPlBhT-ZBXUDF/view" target="_blank" download>
                   <FileText className="mr-2 h-4 w-4" /> Download Resume
                 </a>
               </Button>
