@@ -14,8 +14,7 @@ export function Projects() {
       description: "Enhanced gprMax usability with LLM assistant. Open-source contribution for EM simulation.",
       tools: ["HuggingFace", "PyTorch", "Langchain"],
       image: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      github: "https://github.com/Areen-09/llm-gprmax",
-      demo: "#",
+      github: "https://huggingface.co/areen09/gprMax-ft_Mistral_v0.2",
     },
     {
       title: "Movie Review Analysis",
@@ -31,7 +30,6 @@ export function Projects() {
       tools: ["Unity", "Python", "C#"],
       image: "https://images.pexels.com/photos/1637859/pexels-photo-1637859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       github: "https://github.com/Areen-09/Automatic_Parking_System_Using_ReinforcementLearning_with_Simulation_in_Unity",
-      demo: "#",
     },
   ];
 
@@ -93,11 +91,13 @@ export function Projects() {
                       <Github className="h-4 w-4 mr-1" /> Code
                     </a>
                   </Button>
-                  <Button size="sm" asChild>
-                    <a href={project.demo} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="h-4 w-4 mr-1" /> Demo
-                    </a>
-                  </Button>
+                  {project.demo && (
+                    <Button size="sm" asChild>
+                      <a href={project.demo} target="_blank" rel="noopener noreferrer">
+                        <ExternalLink className="h-4 w-4 mr-1" /> Demo
+                      </a>
+                    </Button>
+                  )}
                 </CardFooter>
               </Card>
             </motion.div>
