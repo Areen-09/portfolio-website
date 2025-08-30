@@ -32,7 +32,7 @@ export function Hero() {
                 className="rounded-full overflow-hidden w-48 h-48 md:w-64 md:h-64"
               >
                 <img 
-                  src="/images/new_profile.png" 
+                  src="/images/new_profile_1.png" 
                   alt="Areen Agrawal"
                   className="w-full h-full object-cover"
                   loading="lazy"
