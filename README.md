@@ -1,4 +1,4 @@
-# Areen Agrawal's Portfolio
+# My Portfolio
 
 [🌐 Visit Live Website](https://portfolio-website-six-mu-80.vercel.app/)
 
