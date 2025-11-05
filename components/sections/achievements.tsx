@@ -20,9 +20,9 @@ export function Achievements() {
       icon: <Medal className="w-12 h-12 text-chart-2" />,
     },
     {
-      title: "Top 8 - VITCL by Board Gamers Club",
-      year: "2022-2023",
-      description: "Placed in Top 8 in VIT Chess league organised by Board Gamers Club",
+      title: "Top 200 - Amazon ML Challenge 2025",
+      year: "2025",
+      description: "Placed in rank 156 among the 25000+ registered teams",
       icon: <Award className="w-12 h-12 text-chart-3" />,
     },
   ];

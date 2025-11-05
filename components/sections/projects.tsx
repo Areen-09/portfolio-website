@@ -17,12 +17,12 @@ export function Projects() {
       github: "https://huggingface.co/areen09/gprMax-ft_Mistral_v0.2",
     },
     {
-      title: "Movie Review Analysis",
-      description: "Deep learning-powered sentiment analysis app on IMDB dataset.",
-      tools: ["TensorFlow", "NLP", "Streamlit"],
-      image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      github: "https://github.com/Areen-09/review-analysis-using-SimpleRNN",
-      demo: "https://review-analysis-using-rnn.streamlit.app/",
+      title: "Legal Document Demystifier",
+      description: "AI-powered legal document demystifier that leverages Large Language Models to simplify complex legalcontracts into easy-to-understand language while preserving key details.",
+      tools: ["Python", "TypeScript", "Google Cloud Platform", "next.js", "Vertex AI", "RAG"],
+      image: "https://images.pexels.com/photos/613508/pexels-photo-613508.jpeg",
+      github: "https://github.com/Areen-09/legalmind-ai",
+      demo: "https://legalmind-ai-mu.vercel.app/",
     },
     {
       title: "Autonomous Parking System",

@@ -11,17 +11,17 @@ export function Skills() {
     {
       name: "Programming Languages",
       icon: <Code2 className="w-5 h-5" />,
-      skills: ["Python", "JavaScript", "Java", "C", "SQL"],
+      skills: ["Python", "JavaScript", "Java", "TypeScript", "SQL"],
     },
     {
       name: "Frameworks & Libraries",
       icon: <Server className="w-5 h-5" />,
-      skills: ["Node.js", "Next.js", "Django", "TensorFlow", "PyTorch", "LangChain"],
+      skills: ["FastAPI", "Next.js", "Django", "TensorFlow", "PyTorch", "LangChain"],
     },
     {
       name: "Databases & Cloud",
       icon: <Database className="w-5 h-5" />,
-      skills: ["AWS DynamoDB", "MySQL", "MongoDB"],
+      skills: ["AWS DynamoDB", "MySQL", "MongoDB", "GCP"],
     },
     {
       name: "Dev Tools",
